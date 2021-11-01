@@ -38,4 +38,4 @@ graph export GlobShareCO2.png, replace wid(1000)
 
 graph combine Co2pc GlobShareCO2, ///
 name("TrendsCo2Share", replace)  cols(1) title("TrendsCo2ShareAllYears")
-![image](https://user-images.githubusercontent.com/92966779/139611701-c2149d75-a4d3-4104-a32e-2951efb44b51.png)
+
